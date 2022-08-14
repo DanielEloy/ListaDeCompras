@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+    <string name="soma">Soma = 0.00 : Urgente = 0.00 </string>
+    <string name="preco">Preço</string>
+
+    <string-array name="produtos">
+        <item>Arroz</item>
+        <item>Carne</item>
+        <item>Feijão</item>
+        <item>Macarrão</item>
+        <item>Banana</item>
+    </string-array>
+</resources>
